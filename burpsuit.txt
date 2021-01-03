@@ -1,0 +1,16 @@
+^FLAG^3500ac87d88749fc52calb27fadb44592ab0d58fe73326e01397545085a0f355$FLAG$
+
+
+BURPSUIT COMMAND:-
+GET /complete/search?client=chrome-omni&gs_ri=chrome-ext-ansg&xssi=t&q=dwwsqd&oit=1&cp=6&pgcl=7&gs_rn=42&psi=HBjyQziVCRis4ZLE&sugkey=n%2Fa HTTP/1.1
+Host: www.google.com
+Connection: close
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: NID=204=aOsGr9y9_Xt5gUf-R4MyJ2bW6f5fWxhTme6QbVD3fS7D1YmJIJLCDUYlhRBbHxHvM2ZwQOZjNdpkPOB5s83dXlydIvCd3y8I92AWOh-Pq2EwLtDGOZop7qyR0DlMMj8osIummTQIpBfjXLmXSQLk1RDCdz5lVMA50WSnbyYWdCM
+username: aa, password: aa
+
